@@ -1,4 +1,4 @@
-# Image Steganography Web Application
+# Image Steganography Web App
 
 This web application demonstrates image steganography techniques, allowing users to embed secret messages within images and subsequently extract them. It utilizes the Flask framework, Pillow (PIL) for image processing, and custom steganography algorithms defined in `stego_util.py`.
 
